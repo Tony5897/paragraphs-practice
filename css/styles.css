@@ -19,3 +19,7 @@ p.author {
 .highlight {
   color: yellow;
 }
+
+img {
+  float: left;
+}
